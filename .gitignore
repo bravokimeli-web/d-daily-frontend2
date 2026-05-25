@@ -4,6 +4,7 @@ node_modules/
 # dotenv environment variables
 .env
 .env.production
+env.production
 .env.example
 .env.*.local
 
